@@ -7,7 +7,7 @@
 
 ## <p align="center">Avila Bible Authors Prediction</p>
 
-<p align="center"> <img  src="https://github.com/Juliopdata/kaggle/blob/master/diamonds/images/diamond.png"></p>
+<p align="center"> <img  src="https://github.com/Juliopdata/kaggle-avila-bible-competition/blob/master/avila-bible/images/avila.jpg"></p>
 
 ### Overview
 
